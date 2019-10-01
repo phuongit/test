@@ -33,3 +33,8 @@ CSS for Movies Component
   margin: 0.2em;
   text-align: left;
 }
+
+.selected {
+  background: mediumseagreen !important;
+  color: white;
+}
