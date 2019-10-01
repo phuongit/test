@@ -18,6 +18,9 @@ CSS for Movies Component
   margin: 1em;        
   max-width: 16em;
 }
+
+
+
 .movies .movieListItem 
 {
   font-size: 0.875em; /* 14px/16=0.875em */
