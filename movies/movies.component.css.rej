@@ -1,0 +1,10 @@
+diff a/movies/movies.component.css b/movies/movies.component.css	(rejected hunks)
+@@ -39,4 +39,5 @@
+   color: white;
+ }
+ 
+-.phuong{}
+\ No newline at end of file
++.phuong{}
++.phuong1{}
+\ No newline at end of file
